@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Basics">
+    
+    <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+       <listener class-name="com.Listners.CustomListeners"/>
+  </listeners>
+    
+    
+	<test name="LoginTest">
+		<classes>
+			<class name="com.UD.TestCases.VerifyLogin" />
+			<class name="com.UD.TestCases.VerifyAddCandidate" />
+			
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	
+	
+</suite> <!-- Suite -->

@@ -1,0 +1,15 @@
+com\pages\Recruitment\SearchCandidate.class
+com\w2a\utilities\TestConfig.class
+com\pages\Recruitment\Vacancies.class
+com\pages\Recruitment\AddCandidate.class
+com\Base\SideMenu.class
+com\Listners\CustomListeners.class
+com\w2a\utilities\MonitoringMail$SMTPAuthenticator.class
+com\w2a\utilities\ExtentManager.class
+com\w2a\utilities\ExcelReader.class
+com\pages\DashboardPage.class
+com\pages\LoginPage.class
+com\Base\Pages.class
+com\w2a\utilities\MonitoringMail.class
+com\w2a\utilities\Utilities.class
+com\pages\Recruitment\RecruitmentHomePage.class
